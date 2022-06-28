@@ -12,3 +12,37 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.space{
+  margin-bottom: 10px;
+}
+
+.buttonss{
+  display: inline;
+}
+
+.btn1{
+  margin-right: 10px;
+  width: 100px;
+  border: none;
+  color: red;
+  background-color: azure;
+  font-size: 20px;
+}
+.btn2{
+  margin-top: 10px;
+  width: 100px;
+  border: none;
+  color: red;
+  background-color: azure;
+  font-size: 20px;
+}
+
+.buyBTN{
+  margin-top: 10px;
+  width: 100px;
+  border: none;
+  color: red;
+  background-color: azure;
+  font-size: 20px;
+}
